@@ -2,7 +2,7 @@
   "name": "web-uas",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://rasyidMuhammad12.git.io/",
+  "homepage": "http://rasyidMuhammad12.git.io/web_tutorial_rasyid",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
