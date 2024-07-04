@@ -13,6 +13,7 @@ import materi3css from "./pages/materi3css";
 import materi1js from "./pages/materi1js";
 import materi2js from "./pages/materi2js";
 import materi3js from "./pages/materi3js";
+import ajax from "./pages/ajax";
 
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
         <Route path="/materi1js" Component={materi1js } />
         <Route path="/materi2js" Component={materi2js } />
         <Route path="/materi3js" Component={materi3js } />
+        <Route path="/ajax" Component={ajax } />
       
       </Routes>
       <FooterComponen />

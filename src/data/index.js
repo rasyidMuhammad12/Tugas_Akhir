@@ -14,6 +14,11 @@ export const navLinks = [
     path: "roadmaps",
     text: "Roadmaps",
   },
+  {
+    id: 3,
+    path: "ajax",
+    text: "ajax",
+  },
  
 ];
 

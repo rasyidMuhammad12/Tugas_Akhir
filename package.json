@@ -2,7 +2,7 @@
   "name": "web-uas",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://rasyidMuhammad12.git.io/Tugas_Akhir",
+  "homepage": "http://rasyidMuhammad12.git.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
