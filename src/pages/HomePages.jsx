@@ -12,7 +12,7 @@ const HomePages = () => {
           <Row className="header-box d-flex align-items-center">
             <Col lg="6">
               <h1>
-                Mulai Belajar <br /> <span>Frontend</span> Disini
+                Mulai Belajar n <br /> <span>Frontend</span> Disini
               </h1>
               <p>
                 kamu dapat belajar tentang HTML,CSS,Javascript <br /> yang sangat dasar bersama kami
